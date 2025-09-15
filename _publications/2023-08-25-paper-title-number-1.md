@@ -2,10 +2,10 @@
 title: "1. Fabrication of Z-scheme ZnO/g-C3N4 heterojunction modified by silver nanoparticles for photocatalytic removal of Norfloxacin and Rhodamine B"
 collection: publications
 category: manuscripts
-permalink: /Optical Materials/2023-08-25-paper-title-number-1
+permalink: /**Optical Materials**/2023-08-25-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-08-25
-venue: 'Optical Materials'
+venue: '**Optical Materials**'
 paperurl: 'http://chenpu.github.io/files/paper1.pdf'
 citation: 'Xiaoxia Ou*, Pu Chen , Ke Zhao , Cunjie Xia. Fabrication of Z-scheme ZnO/g-C3N4 heterojunction modified by silver nanoparticles for photocatalytic removal of Norfloxacin and Rhodamine B. <i>Optical Materials</i>. 2023;144:114305.'
 ---
