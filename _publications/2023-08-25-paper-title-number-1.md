@@ -7,6 +7,6 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2023-08-25
 venue: 'Optical Materials'
 paperurl: 'http://chenpu.github.io/files/paper1.pdf'
-citation: 'Xiaoxia Ou*, Pu Chen , Ke Zhao , Cunjie Xia. Fabrication of Z-scheme ZnO/g-C3N4 heterojunction modified by silver nanoparticles for photocatalytic removal of Norfloxacin and Rhodamine B. <i>Optical Materials</i>. 2023;144:114305.'
+citation: 'Xiaoxia Ou*, Pu Chen, Ke Zhao, Cunjie Xia. Fabrication of Z-scheme ZnO/g-C3N4 heterojunction modified by silver nanoparticles for photocatalytic removal of Norfloxacin and Rhodamine B. <i>Optical Materials</i>. 2023;144:114305.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
