@@ -23,7 +23,7 @@ repository               : "Ericpuzai/chenpu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-chenpu.png"
+  avatar           : "profile.png"
   name             : "Chen Pu"
   pronouns         : # example: "she/her"  
   bio              : "A doctoral studentr"
