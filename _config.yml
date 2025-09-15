@@ -26,9 +26,9 @@ author:
   avatar           : "profile-chenpu.png"
   name             : "Chen Pu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A doctoral studentr"
+  location         : "中国 上海市 杨浦区 同济大学"
+  employer         : "Tongji University"
   uri              : # URL
   email            : "none@example.org" 
 
