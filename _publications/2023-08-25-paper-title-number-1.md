@@ -1,5 +1,5 @@
 ---
-title: "Fabrication of Z-scheme ZnO/g-C3N4 heterojunction modified by silver nanoparticles for photocatalytic removal of Norfloxacin and Rhodamine B"
+title: "1. Fabrication of Z-scheme ZnO/g-C3N4 heterojunction modified by silver nanoparticles for photocatalytic removal of Norfloxacin and Rhodamine B"
 collection: publications
 category: manuscripts
 permalink: /Optical Materials/2023-08-25-paper-title-number-1
